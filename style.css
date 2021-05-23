@@ -1,0 +1,23 @@
+.heading { background-color: rgb(227, 235, 240);
+    text-align: center;
+    font-size:22px;
+    
+   }
+   div{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    padding: 20px;
+    background-color: rgb(186, 221, 233);
+    border: 1px solid black;
+    text-align: left;
+   }
+   body{
+       background-image: url(C:\Users\16364\Desktop\LaunchCode\html-me-something\Images\goldenGate.jpg);
+       background-repeat: repeat; 
+       background-color: rgb(235, 239, 240);
+       }
+   ul {font-size: 18px;}
+   #h3 {font-size: 20px;
+       text-align: center;}
